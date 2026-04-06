@@ -8,3 +8,8 @@ This repository contains my hands-on TryHackMe room writeups as I build my cyber
 - Linux & Windows Administration
 - Offensive and Defensive Security
 - SIEM and Web Security
+
+  ---
+  ## The purpose of these Write-ups
+
+the purpose of these writeups are to showcase my cyber security skills

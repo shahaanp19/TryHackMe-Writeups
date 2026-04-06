@@ -1,5 +1,13 @@
 # Cybersecurity Fubdamentals
 ---
+## Rooms completed on TryHackMe
+- Careers in cyber
+- Introduction to SIEM
+- Starting out in Cyber Sec
+- Offensive security introduction
+- Defensive security introduction
+
+---
 ## Objective
 The purpose of these rooms was to build a foundational understanding of cybersecurity, including the different domains within the field, the roles involved, and the core principles of both offensive and defensive security.
 

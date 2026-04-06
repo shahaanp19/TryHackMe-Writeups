@@ -1,4 +1,11 @@
 # Networking Fundamentals
+---
+
+## Rooms completed on TryHackMe
+- Introductory Networking
+- What is networking
+- DNS in detail
+- HTTP in detail
 
 ## Objective
 The purpose of this room was to build a foundational understanding of networking concepts and how systems communicate. This knowledge is essential in ethical hacking, as most attacks and defenses occur over networks.
@@ -17,7 +24,7 @@ In ethical hacking, IP addresses are fundamental during reconnaissance. Attacker
 
 ---
 
-## DNS (Domain Name System)
+## DNS 
 DNS is responsible for translating domain names into IP addresses so that users can access websites using human-readable names.
 In ethical hacking, DNS plays an important role during information gathering. Attackers often use DNS queries to discover subdomains, identify infrastructure, and uncover potential entry points. Misconfigured DNS can also be exploited through techniques such as DNS spoofing or cache poisoning.
 
@@ -38,6 +45,7 @@ In ethical hacking, identifying open ports is a key part of enumeration. Open po
 ## Practical Relevance to Ethical Hacking
 The concepts I covered in this room form the foundation for more advanced techniques such as network scanning, enumeration, and exploitation.
 
+## What i have learnt in these rooms
 Understanding networking allows an ethical hacker to:
 - Identify active systems on a network
 - Analyze traffic for vulnerabilities

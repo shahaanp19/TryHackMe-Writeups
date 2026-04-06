@@ -1,4 +1,11 @@
 # Web Fundamentals
+---
+
+## Rooms completed on TryHackMe
+- Web security essentials
+- How websites work
+- HTTP in detail
+  
 
 ## Objective
 The purpose of this room was to understand how web technologies function, including how websites are delivered, how browsers interact with servers, and how web communication works. This knowledge is essential in ethical hacking, as many attacks target web applications.
